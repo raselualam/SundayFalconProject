@@ -1,6 +1,8 @@
 @regression @smoke @SKYW-15 @E2E
 Feature: Ebay Search Functionality
 
+Description: User should able to search by items
+
 	Background: 
 		Given Open Ebay Homepage
 
