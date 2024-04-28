@@ -34,6 +34,7 @@ public class EbayCartActions {
 	public void selectShadeDD(){
 		Select dropDown = new Select(EbayCartLocatorsObj.ddShade);
 //		dropDown.selectByVisibleText("Black");
+//		dropDown.selectByIndex(3);
 		dropDown.selectByValue("15");
 	}
 	
